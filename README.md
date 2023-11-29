@@ -1,1 +1,1 @@
-# SVC_Project
+This is a simple website for BMI calculator. The major objective behind working on this project was to use version control system in my course project. 
